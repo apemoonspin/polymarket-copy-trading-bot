@@ -1,0 +1,20 @@
+# Polymarket Arbitrage Bot Required Packages
+
+# Web3 and blockchain integration
+web3>=6.0.0
+eth-account>=0.8.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Async processing (for future WebSocket implementation)
+asyncio>=3.4.3
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Data processing
+pandas>=2.0.0  # Optional: for data analysis
+
+# Polymarket official SDK (optional)
+# py-clob-client>=0.1.0  # Install: pip install py-clob-client

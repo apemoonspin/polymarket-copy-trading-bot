@@ -1,52 +1,33 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Dependency directories
-node_modules/
-
-# Build output
-dist/
-build/
-out/
-
-# TypeScript files
-*.tsbuildinfo
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
 
 # Environment variables
 .env
-.env.* 
 
-# Temporary files
-*.tmp
-*.temp
+# Log files
+logs/
+*.csv
+*.db
 
-# Editor and OS-specific files
+# IDE
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
+
+# OS
 .DS_Store
 Thumbs.db
 
-# Optional lock files
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-
-# Coverage reports
-coverage/
-
-# Testing
-jest-test-results.json
-.nyc_output/
-.vitest/
-
-# Lint and formatting cache
-.eslintcache
-.prettiercache
-
-# Readme.md
-README.md
+# Miscellaneous
+*.log
+.pytest_cache/

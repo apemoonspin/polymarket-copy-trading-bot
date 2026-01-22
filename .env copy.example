@@ -1,0 +1,19 @@
+# Polymarket Arbitrage Bot Environment Variables Example
+# Copy this file to .env and modify with actual values
+
+# Bot Settings
+MIN_PROFIT_MARGIN=0.01          # Minimum profit margin (1% = 0.01)
+SCAN_INTERVAL=1.0                # Market scan interval (seconds)
+MAX_MARKETS_TO_MONITOR=100       # Maximum number of markets to monitor simultaneously
+
+# Web3 Settings (only required for actual trading)
+PRIVATE_KEY=                     # Wallet private key (only set when actually trading)
+POLYGON_RPC_URL=https://polygon-rpc.com
+
+# Data Logger Settings
+ENABLE_DATA_LOGGING=true         # Enable data logging
+LOG_DIR=./logs                   # Log file storage directory
+
+# Trading Settings
+MIN_TRADE_SIZE=0.01              # Minimum trade amount
+MAX_SLIPPAGE=0.01                # Maximum slippage (1% = 0.01)
