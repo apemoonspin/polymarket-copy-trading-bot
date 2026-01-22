@@ -1,14 +1,14 @@
 # These are supported funding model platforms
 github: apemoonspin
-patreon: #
-open_collective: #
-ko_fi: #
+patreon: apemoonspin
+open_collective: apemoonspin
+ko_fi: apemoonspin
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: #
-issuehunt: #
+liberapay: apemoonspin
+issuehunt: apemoonspin
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: #
-buy_me_a_coffee: #
-thanks_dev: #
+polar: apemoonspin
+buy_me_a_coffee: apemoonspin
+thanks_dev: apemoonspin
 custom: https://polymarket.com

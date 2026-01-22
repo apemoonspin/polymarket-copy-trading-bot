@@ -1,11 +1,9 @@
-# Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket Arbitrage Trading Bot
+# Polymarket Arbitrage Bot | Polymarket Trading Bot with 7 Strategies
 
 **Professional Polymarket Bot for Automated Arbitrage Trading for suitable income**
 
 > **Need help running this project or want an updated version?**  
 > 📱 **Telegram**: [@apemoonspin](https://t.me/apemoonspin)  
-> 🐦 **Twitter**: [@apemoonspin](https://twitter.com/apemoonspin)
-
 ---
 
 ## 📝 Description
@@ -13,10 +11,6 @@
 **Polymarket Arbitrage Bot** - The ultimate automated trading solution for Polymarket arbitrage opportunities. This **Polymarket trading bot** automatically scans markets, detects arbitrage opportunities, and executes profitable trades when Yes/No ticket prices sum to less than 1.0.
 
 **Current Version Update**: This version specifically addresses and resolves the critical 3.15% profit margin calculation issue, ensuring more accurate arbitrage detection and execution.
-
-### What is a Polymarket Arbitrage Bot?
-
-A **Polymarket arbitrage bot** is an automated trading system designed to identify and capitalize on price discrepancies in Polymarket prediction markets. This **Polymarket arbitrage trading bot** monitors real-time prices across multiple markets, detects when the combined cost of Yes and No tickets is below their redemption value, and automatically executes trades to lock in guaranteed profits.
 
 ---
 
@@ -244,7 +238,6 @@ This project is freely available for educational purposes.
 **apemoonspin**  
 📱 Telegram: [@apemoonspin](https://t.me/apemoonspin)  
 🐙 GitHub: [apemoonspin](https://github.com/apemoonspin)  
-🐦 Twitter: [@apemoonspin](https://twitter.com/apemoonspin)
 
 ---
 
